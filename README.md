@@ -5,4 +5,4 @@
 <p align="center">
   <img src="./img/1.jpg" height="300">
   <img src="./img/2.jpg" height="300">
-</p>vc
+</p>
